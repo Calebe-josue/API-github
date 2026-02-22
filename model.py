@@ -1,7 +1,6 @@
 import json
-from controller import*
 
-def salvar_arquivo(nome,api):
-    with open(nome,'w') as arq:
-        json.dump(arq,api,indent=4)
+def salvar_arquivo(nome,json):
+    with open(nome,'w',encoding='utf-8') as arq:
+        json.dump(json,arq,indent=4)
 
