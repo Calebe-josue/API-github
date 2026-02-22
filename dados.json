@@ -1,0 +1,615 @@
+[
+    {
+        "id": "6778325471",
+        "type": "PublicEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1164079255,
+            "name": "Calebe-josue/Poo-em-python",
+            "url": "https://api.github.com/repos/Calebe-josue/Poo-em-python"
+        },
+        "payload": {},
+        "public": true,
+        "created_at": "2026-02-22T15:58:53Z"
+    },
+    {
+        "id": "6765347450",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 250518389,
+            "name": "gustavoguanabara/git-github",
+            "url": "https://api.github.com/repos/gustavoguanabara/git-github"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353",
+                "repository_url": "https://api.github.com/repos/gustavoguanabara/git-github",
+                "labels_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353/labels{/name}",
+                "comments_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353/comments",
+                "events_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353/events",
+                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4353",
+                "id": 3958928626,
+                "node_id": "I_kwDODu6bdc7r-HTy",
+                "number": 4353,
+                "title": "Teste Markdown",
+                "user": {
+                    "login": "vitorrodrigues230",
+                    "id": 211255557,
+                    "node_id": "U_kgDODJeBBQ",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/211255557?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/vitorrodrigues230",
+                    "html_url": "https://github.com/vitorrodrigues230",
+                    "followers_url": "https://api.github.com/users/vitorrodrigues230/followers",
+                    "following_url": "https://api.github.com/users/vitorrodrigues230/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/vitorrodrigues230/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/vitorrodrigues230/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/vitorrodrigues230/subscriptions",
+                    "organizations_url": "https://api.github.com/users/vitorrodrigues230/orgs",
+                    "repos_url": "https://api.github.com/users/vitorrodrigues230/repos",
+                    "events_url": "https://api.github.com/users/vitorrodrigues230/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/vitorrodrigues230/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "open",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 8,
+                "created_at": "2026-02-18T17:19:33Z",
+                "updated_at": "2026-02-21T15:10:23Z",
+                "closed_at": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Estou aprendendo linguagem **Markdown** no curso em V\u00eddeo de Git e Github\nUsando _= __Markdown__\nUsando ~= ~~Markdown~~\n\n---\n# Titulo\n\n## Titulo\n\n### Titulo\n\n---\n\n__*misturado*__\n\n---\n\nLista numerada:\n1.teste\n2.teste\n3.teste\n\n---\n\nLista demarcada:\n* Teste\n* teste\n* teste\n\n---\n\nLista de Tarefas\n\n- [x] Criar a p\u00e1gina principal\n- [x] Criar p\u00e1gina da loja\n- [ ] Finalizar a reuni\u00e3o com o cliente\n- [ ] Receber pagamento\n\n---\n\n**Imagem**:\n\n![Passarin](https://github.com/user-attachments/assets/b888d936-92ac-454e-95ea-a6f50d7f6398)\n---\n\n**Link**:\n[Acesse meu Github](https://github.com/vitorrodrigues230)\n\n---\n**Tabela**:\n\nNum | Nome | Nota \n---|---|---\n1 | Vitor | 8.5\n2 | Jos\u00e9 | 9.0\n3 | Carolina | 7.0\n\nTerminou a Tabela\n\n---\n\n**Comando**:\n\nN\u00e3o entendi direito para que serve o comando `docmunt.getElementByld()` da linguagem JavaScript\n\nOlha meu programa em Python\n```\nnum=int(input(\"digite um valor: \"))\nif num%2==0:\n    print(f\"O valor {num} \u00e9 par\")\nelse:\n    print(f\"O valor {num} \u00e9 impar\")\n```\n\n---\n\n**Emoji**:\n\n\ud83c\udf83 \n\ud83d\udd96 \n\u270b \n\ud83c\udf3c \n\n---",
+                "reactions": {
+                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353/timeline",
+                "performed_via_github_app": null,
+                "state_reason": null,
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3938934798",
+                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4353#issuecomment-3938934798",
+                "issue_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353",
+                "id": 3938934798,
+                "node_id": "IC_kwDODu6bdc7qx2AO",
+                "user": {
+                    "login": "Calebe-josue",
+                    "id": 212161434,
+                    "node_id": "U_kgDODKVTmg",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/212161434?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Calebe-josue",
+                    "html_url": "https://github.com/Calebe-josue",
+                    "followers_url": "https://api.github.com/users/Calebe-josue/followers",
+                    "following_url": "https://api.github.com/users/Calebe-josue/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Calebe-josue/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Calebe-josue/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Calebe-josue/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Calebe-josue/orgs",
+                    "repos_url": "https://api.github.com/users/Calebe-josue/repos",
+                    "events_url": "https://api.github.com/users/Calebe-josue/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Calebe-josue/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-02-21T15:10:23Z",
+                "updated_at": "2026-02-21T15:10:23Z",
+                "body": "# Estou aprendendo linguagem markdown\n## Vou utilizar essa issue para n\u00e3o criar uma nova!\n\n### lista numerada:\n1. Teste\n1. Teste2\n    1. Teste3\n    2. teste4\n  \n### lista demarcada:\n* teste\n* teste\n-teste\n\n### Lista de tarefas:\n- [ ] Criar p\u00e1gina principal\n- [x] Criar back-end em python\n- [ ] Finalizar reuni\u00e3o\n- [ ] Receber dinheiro\n\n# Imagem\n![Image](https://github.com/user-attachments/assets/d390a9c2-37fc-4d97-ac4d-327e002913ba)\n\n[Acesse meu Github](https://github.com/calebe-josue)\n\n# Cria\u00e7\u00e3o de tabelas\n\nNum | Nome | Nota\n---|---|---\n1 | Gustavo | 8,5\n2 | Calebe | 1\n3 | Jo\u00e3o | 10\n\nTerminou a tabela\n\n# Comando\nN\u00e3o entendo direito para que serve o comando `list()` da linguagem python\n## Olha meu c\u00f3digo em python\n```\nnome = str(input('Digite seu nome\\n'))\nprint(f' Ol\u00e1 {nome}, Tudo bem?')\n```\n\n# Ol\u00e1, amigos Gafanhotos \ud83d\udd96 \ud83d\udcaf \n\n",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3938934798/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-02-21T15:10:23Z"
+    },
+    {
+        "id": "6743376600",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 250518389,
+            "name": "gustavoguanabara/git-github",
+            "url": "https://api.github.com/repos/gustavoguanabara/git-github"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4342",
+                "repository_url": "https://api.github.com/repos/gustavoguanabara/git-github",
+                "labels_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4342/labels{/name}",
+                "comments_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4342/comments",
+                "events_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4342/events",
+                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4342",
+                "id": 3929172028,
+                "node_id": "I_kwDODu6bdc7qMmg8",
+                "number": 4342,
+                "title": "Testando Linguagem Markdown \u24c2\ufe0f\u2b07\ufe0f",
+                "user": {
+                    "login": "felipeclsilva",
+                    "id": 189465772,
+                    "node_id": "U_kgDOC0sErA",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/189465772?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/felipeclsilva",
+                    "html_url": "https://github.com/felipeclsilva",
+                    "followers_url": "https://api.github.com/users/felipeclsilva/followers",
+                    "following_url": "https://api.github.com/users/felipeclsilva/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/felipeclsilva/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/felipeclsilva/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/felipeclsilva/subscriptions",
+                    "organizations_url": "https://api.github.com/users/felipeclsilva/orgs",
+                    "repos_url": "https://api.github.com/users/felipeclsilva/repos",
+                    "events_url": "https://api.github.com/users/felipeclsilva/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/felipeclsilva/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "open",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-02-11T23:46:16Z",
+                "updated_at": "2026-02-20T13:30:00Z",
+                "closed_at": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "# Exemplos e Aplica\u00e7\u00e3o das marcas do Markdown \u270d\ufe0f \nAs marcas do Markdown possuem menos caracteres que as do HTML, permitindo melhor leitura at\u00e9 \nmesmo do c\u00f3digo fonte. Aqui est\u00e1 alguns exemplos, preste aten\u00e7\u00e3o nos espa\u00e7os vazios que v\u00eam antes de algumas delas e se funcionam em palavras dentro do texto ou no in\u00edcio de uma nova linha.\n\n## Texto em Negrito\nPara deixar o um texto em negrito, use \"**\" ou \"__\" antes e depois do texto. Ex.: **Hello, World!**\n\n## Texto em It\u00e1lico\nPara texto em it\u00e1lico, use \"*\" ou \"_\" antes e depois do texto. Ex.: *Hello, World!*\n\n## Mas por que existem formas diferentes de marcar o texto com essas fun\u00e7\u00f5es? \ud83e\udd14 \nPorque elas podem ser combinadas gerando um texto em negrito e sublinhado. Para isso use 1 asterisco e 2 underlines, ou o contr\u00e1rio. Ex.: __*Hello, World!*__\n\n## Texto rasurado\nPara texto rasurado, use \"~~\". Ex.: ~~Hello, World!~~\n\n## Linha horizontal\nUse \"***\" ou \"---\" para inserir a linha horizontal, deixando uma linha em branco acima dela. Note que uma vers\u00e3o dela j\u00e1 vem automaticamente ap\u00f3s de marcas de t\u00edtulo. Ex.:\n\ud83d\udc47\n\n---\n\u261d\ufe0f\n\n## T\u00edtulos\nUse \"# \" (t\u00edtulo de n\u00edvel 1), \"## \" (t\u00edtulo de n\u00edvel 2) e \"### \" (t\u00edtulo de n\u00edvel 3), antes do texto para inserir t\u00edtulos. Hashtag tamb\u00e9m \u00e9 utilizado para marcar outras Issues neste reposit\u00f3rio usando sua numera\u00e7\u00e3o, mas neste caso n\u00e3o h\u00e1 espa\u00e7o entre \"#\" e o n\u00famero (#4122). Ex.: \n# T\u00edtulo de n\u00edvel 1\n## T\u00edtulo de n\u00edvel 2\n### T\u00edtulo de n\u00edvel 3\n\n## Lista numerada\nPara fazer listas numeradas, insira o n\u00famero inicial + ponto + espa\u00e7o + texto (\"1. teste\"). Tamb\u00e9m \u00e9 poss\u00edvel construir subitens dando 3 espa\u00e7os antes da numera\u00e7\u00e3o. Ex.:\n1. Primeiro item\n2. Segundo item\n3. Terceiro item\n   3.1. Subitem do t\u00f3pico 3\n4. Quarto item \n\n## Lista demarcada\nPara lista n\u00e3o ordenada, use \"* \" ou \"- \" antes de cada item da lista. Ex.:\n* Item 1\n- Item 2\n   * Item 2.1\n* Item 3\n\n## Lista de tarefas\nPara inserir caixas marcadas ou desmarcadas, use \"- [x] \" e \"- [ ] \" antes do texto. Ex.: _\"Hoje estudei...\"_\n- [x] HTML\n- [x] CSS\n- [ ] JavaScript\n\n## Link\nUse \"[_Clique aqui_] (_url_)\" para inserir links, mas sem espa\u00e7o entre os colchetes e os par\u00eanteses (a linguagem n\u00e3o me permitiu uni-los sem criar um link). Ex.:\n[Visite meu perfil no GitHub\ud83d\udc27 ](https://github.com/felipeclsilva)\n\n## Imagem\nPara inserir imagens, arraste uma imagem baixada ou da internet para este campo de escrita do GitHub, ou use \"![Image] (_url_)\", mas sem espa\u00e7o entre os par\u00eanteses e os colchetes. Ex.:\n\n![Image](https://github.com/user-attachments/assets/e29cdebc-aaa0-4f9c-8b67-1f66e131d20e)\n\n## Tabela\nPara criar tabela, ser\u00e1 necess\u00e1rio definir o n\u00famero de colunas existentes (como 3), pois a primeira linha definir\u00e1 o nome delas e devem estar entre \"|\" (em caso de 1 coluna, n\u00e3o coloque). Na linha seguinte coloque \"---|\" uma vez para cada coluna que sua tabela ter\u00e1 (neste exemplo fica \"---|---|---\", pois n\u00e3o necessariamente precisa da \u00faltima barra vertical para n\u00famero de colunas maior que 1). Ap\u00f3s isso insira uma nova linha para os dados da tabela conforme sua necessidade, deixando-os entre barras verticais. Tamb\u00e9m \u00e9 permitido campos sem dados. Exemplo com c\u00f3digo e seu resultado.:\n\n```\nNum | Nome | Nota\n---|---|---\n1 | Felipe | 8,8\n2 | Jo\u00e3o | \n3 | Maria | 10,0\n```\n\nNum | Nome | Nota\n---|---|---\n1 | Felipe | 8,8\n2 | Jo\u00e3o | \n3 | Maria | 10,0\n\n## Marca para c\u00f3digo\nAssim como o utilizado no exemplo anterior, pode surgir a necessidade de inserir c\u00f3digo, ou um bloco com v\u00e1rias linhas de c\u00f3digo. As marcas `` e ``` s\u00e3o usadas para isso, em que a \u00faltima serve para c\u00f3digos mais extensos e deve ser colocada uma linha antes e uma depois deste bloco de c\u00f3digo .Ex.:\n``` \nnum = int(input(\u2018Digite um valor: \u2019))\nif num % 2 == 0:\n\tprint(f\u2018O valor {num} \u00e9 PAR)\nelse:\n\tprint(f\u2018O valor {num} \u00e9 \u00cdMPAR\u2019)\n```\n\n`window.alert()`\n`document.getElementById()`\n\n## Emojis\nPara colocar emojis, use \":_nomeDoEmoji_:\", o pr\u00f3prio GitHub te ajuda com isso. Para mais emojis [Acesse este reposit\u00f3rio](https://github.com/ikatyang/emoji-cheat-sheet.git). Ex.: :monocle_face: :surfing_man: :chipmunk:\n\n## Cita\u00e7\u00e3o\nPara fazer cita\u00e7\u00f5es, use \"> \" antes do texto. Esta marca tamb\u00e9m \u00e9 utilizada na fun\u00e7\u00e3o \u201cQuote reply\u201d, para responder um coment\u00e1rio dentro da Issue. Ex.:\n> \u201cConhe\u00e7a o inimigo e conhe\u00e7a a si mesmo; em cem batalhas, voc\u00ea nunca ser\u00e1 derrotado.\u201d (SUN TZU)\n\n---\n\nUfa! :face_exhaling: Essa demorou. Se isso te ajudou, segue a\u00ed amigo!",
+                "reactions": {
+                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4342/reactions",
+                    "total_count": 1,
+                    "+1": 1,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4342/timeline",
+                "performed_via_github_app": null,
+                "state_reason": null,
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3934625864",
+                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4342#issuecomment-3934625864",
+                "issue_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4342",
+                "id": 3934625864,
+                "node_id": "IC_kwDODu6bdc7qhaBI",
+                "user": {
+                    "login": "Calebe-josue",
+                    "id": 212161434,
+                    "node_id": "U_kgDODKVTmg",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/212161434?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Calebe-josue",
+                    "html_url": "https://github.com/Calebe-josue",
+                    "followers_url": "https://api.github.com/users/Calebe-josue/followers",
+                    "following_url": "https://api.github.com/users/Calebe-josue/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Calebe-josue/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Calebe-josue/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Calebe-josue/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Calebe-josue/orgs",
+                    "repos_url": "https://api.github.com/users/Calebe-josue/repos",
+                    "events_url": "https://api.github.com/users/Calebe-josue/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Calebe-josue/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-02-20T13:30:00Z",
+                "updated_at": "2026-02-20T13:30:00Z",
+                "body": "Caramba, ajudou demais cara, muito obrigado!",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3934625864/reactions",
+                    "total_count": 1,
+                    "+1": 1,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-02-20T13:30:00Z"
+    },
+    {
+        "id": "8613944256",
+        "type": "PushEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1152199205,
+            "name": "Calebe-josue/Caixa-eletr-nico",
+            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
+        },
+        "payload": {
+            "repository_id": 1152199205,
+            "push_id": 30908876489,
+            "ref": "refs/heads/main",
+            "head": "4f2919256405a5c51c3663e9675b4ec10f380c8b",
+            "before": "ea46e9a53236b12c6d8491b12a172d7ad14a34a5"
+        },
+        "public": true,
+        "created_at": "2026-02-19T20:54:37Z"
+    },
+    {
+        "id": "8600650282",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1161761266,
+            "name": "Calebe-josue/FastAPI",
+            "url": "https://api.github.com/repos/Calebe-josue/FastAPI"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/main",
+            "master_branch": "main",
+            "description": "Projeto para estudos. Entendendo como funciona uma API e como ela se comunica.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-02-19T13:43:03Z"
+    },
+    {
+        "id": "8600113624",
+        "type": "PushEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1152199205,
+            "name": "Calebe-josue/Caixa-eletr-nico",
+            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
+        },
+        "payload": {
+            "repository_id": 1152199205,
+            "push_id": 30895151473,
+            "ref": "refs/heads/main",
+            "head": "ea46e9a53236b12c6d8491b12a172d7ad14a34a5",
+            "before": "b5a49ebc9db7f3d892dfb182559f472ee47312a1"
+        },
+        "public": true,
+        "created_at": "2026-02-19T13:25:31Z"
+    },
+    {
+        "id": "8346201833",
+        "type": "PushEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1114078734,
+            "name": "Calebe-josue/To-do-list",
+            "url": "https://api.github.com/repos/Calebe-josue/To-do-list"
+        },
+        "payload": {
+            "repository_id": 1114078734,
+            "push_id": 30641187548,
+            "ref": "refs/heads/main",
+            "head": "02e8cb897ad1189a2f878f3b4b1259bf7201d88c",
+            "before": "0eda61a945fe96f858d3fd1c9dd64401e7c1ee54"
+        },
+        "public": true,
+        "created_at": "2026-02-11T13:45:52Z"
+    },
+    {
+        "id": "8346134968",
+        "type": "PushEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1152199205,
+            "name": "Calebe-josue/Caixa-eletr-nico",
+            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
+        },
+        "payload": {
+            "repository_id": 1152199205,
+            "push_id": 30641119441,
+            "ref": "refs/heads/main",
+            "head": "b5a49ebc9db7f3d892dfb182559f472ee47312a1",
+            "before": "c1e68b53422fbcbbc53ff386a51deebfd9273b8c"
+        },
+        "public": true,
+        "created_at": "2026-02-11T13:43:48Z"
+    },
+    {
+        "id": "8345703496",
+        "type": "PushEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1150612553,
+            "name": "Calebe-josue/Biblioteca",
+            "url": "https://api.github.com/repos/Calebe-josue/Biblioteca"
+        },
+        "payload": {
+            "repository_id": 1150612553,
+            "push_id": 30640682960,
+            "ref": "refs/heads/main",
+            "head": "bce01bf802646e13b6ed3624a5556bbb581bf394",
+            "before": "a15b0042fcbab8af878edd1c5dc668b67c7ad3b7"
+        },
+        "public": true,
+        "created_at": "2026-02-11T13:30:53Z"
+    },
+    {
+        "id": "8227227182",
+        "type": "PushEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1152199205,
+            "name": "Calebe-josue/Caixa-eletr-nico",
+            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
+        },
+        "payload": {
+            "repository_id": 1152199205,
+            "push_id": 30522153549,
+            "ref": "refs/heads/main",
+            "head": "c1e68b53422fbcbbc53ff386a51deebfd9273b8c",
+            "before": "73a7b0c7519132aa60c34929b1ace2cd8105c329"
+        },
+        "public": true,
+        "created_at": "2026-02-07T14:45:39Z"
+    },
+    {
+        "id": "8227002504",
+        "type": "PushEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1152199205,
+            "name": "Calebe-josue/Caixa-eletr-nico",
+            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
+        },
+        "payload": {
+            "repository_id": 1152199205,
+            "push_id": 30521929424,
+            "ref": "refs/heads/main",
+            "head": "73a7b0c7519132aa60c34929b1ace2cd8105c329",
+            "before": "db64d7ce229bb9934eea50d7cd5965155f3ff433"
+        },
+        "public": true,
+        "created_at": "2026-02-07T14:31:18Z"
+    },
+    {
+        "id": "8226863244",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1152199205,
+            "name": "Calebe-josue/Caixa-eletr-nico",
+            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/main",
+            "master_branch": "main",
+            "description": "Aplica\u00e7\u00e3o em Python que simula um caixa eletr\u00f4nico com consulta de saldo, dep\u00f3sitos, saques e registro de hist\u00f3rico usando arquivo JSON para persist\u00eancia de dados.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-02-07T14:22:01Z"
+    },
+    {
+        "id": "8172056753",
+        "type": "PushEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1150612553,
+            "name": "Calebe-josue/Biblioteca",
+            "url": "https://api.github.com/repos/Calebe-josue/Biblioteca"
+        },
+        "payload": {
+            "repository_id": 1150612553,
+            "push_id": 30460066269,
+            "ref": "refs/heads/main",
+            "head": "a15b0042fcbab8af878edd1c5dc668b67c7ad3b7",
+            "before": "43ab1d73affe77ff485be5b16a0cfc8615d641a9"
+        },
+        "public": true,
+        "created_at": "2026-02-05T14:14:56Z"
+    },
+    {
+        "id": "8171778239",
+        "type": "PushEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1150612553,
+            "name": "Calebe-josue/Biblioteca",
+            "url": "https://api.github.com/repos/Calebe-josue/Biblioteca"
+        },
+        "payload": {
+            "repository_id": 1150612553,
+            "push_id": 30459484832,
+            "ref": "refs/heads/main",
+            "head": "43ab1d73affe77ff485be5b16a0cfc8615d641a9",
+            "before": "6544784d244e46180d6ffba09618eedb92eaded7"
+        },
+        "public": true,
+        "created_at": "2026-02-05T13:57:41Z"
+    },
+    {
+        "id": "8163678326",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 212161434,
+            "login": "Calebe-josue",
+            "display_login": "Calebe-josue",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Calebe-josue",
+            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+        },
+        "repo": {
+            "id": 1150612553,
+            "name": "Calebe-josue/Biblioteca",
+            "url": "https://api.github.com/repos/Calebe-josue/Biblioteca"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/main",
+            "master_branch": "main",
+            "description": "Sistema de biblioteca em Python para cadastro e gerenciamento de livros via terminal, com dados salvos em JSON.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-02-05T13:44:56Z"
+    }
+]
