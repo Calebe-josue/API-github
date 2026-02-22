@@ -11,4 +11,6 @@ class Eventos:
         if response.status_code == 200:
             data = response.json()
             salvar_arquivo('dados.json',data)
-
+            return True
+        elif response.status_code == 404:
+            return False
