@@ -1,34 +1,496 @@
 [
     {
-        "id": "6778325471",
-        "type": "PublicEvent",
+        "id": "8673653293",
+        "type": "PushEvent",
         "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
         },
         "repo": {
-            "id": 1164079255,
-            "name": "Calebe-josue/Poo-em-python",
-            "url": "https://api.github.com/repos/Calebe-josue/Poo-em-python"
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "repository_id": 1157546025,
+            "push_id": 30968345606,
+            "ref": "refs/heads/main",
+            "head": "b2c4b82f0cce0141c06b4d08b4a8e2d304b0c21c",
+            "before": "3c4c3d1ec07827c0a9fea63259d53acb77e03858"
+        },
+        "public": true,
+        "created_at": "2026-02-22T00:44:06Z"
+    },
+    {
+        "id": "8668971418",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "repository_id": 1157546025,
+            "push_id": 30963706696,
+            "ref": "refs/heads/main",
+            "head": "3c4c3d1ec07827c0a9fea63259d53acb77e03858",
+            "before": "80f48fb2cc0d82e8cc2632a130f866497f8de8f9"
+        },
+        "public": true,
+        "created_at": "2026-02-21T19:09:33Z"
+    },
+    {
+        "id": "8668674634",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "repository_id": 1157546025,
+            "push_id": 30963424897,
+            "ref": "refs/heads/main",
+            "head": "80f48fb2cc0d82e8cc2632a130f866497f8de8f9",
+            "before": "9d581e564a1d3dd898c98e4f1181b59474d307f8"
+        },
+        "public": true,
+        "created_at": "2026-02-21T18:51:22Z"
+    },
+    {
+        "id": "8667786450",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "repository_id": 1157546025,
+            "push_id": 30962551561,
+            "ref": "refs/heads/main",
+            "head": "9d581e564a1d3dd898c98e4f1181b59474d307f8",
+            "before": "b9ac51b7142bc70c9cd1feceafaab87499594715"
+        },
+        "public": true,
+        "created_at": "2026-02-21T17:55:54Z"
+    },
+    {
+        "id": "8654375343",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "repository_id": 1157546025,
+            "push_id": 30949259758,
+            "ref": "refs/heads/main",
+            "head": "b9ac51b7142bc70c9cd1feceafaab87499594715",
+            "before": "5b9a0ba4ede3f7d58e859f7683fb4c1f16af6ff3"
+        },
+        "public": true,
+        "created_at": "2026-02-21T01:45:25Z"
+    },
+    {
+        "id": "8648838060",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "repository_id": 1157546025,
+            "push_id": 30943721953,
+            "ref": "refs/heads/main",
+            "head": "5b9a0ba4ede3f7d58e859f7683fb4c1f16af6ff3",
+            "before": "4bd27f8405185ffaf6448f04111f627da3b8cc4f"
+        },
+        "public": true,
+        "created_at": "2026-02-20T20:50:04Z"
+    },
+    {
+        "id": "8647094196",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "repository_id": 1157546025,
+            "push_id": 30941977203,
+            "ref": "refs/heads/main",
+            "head": "4bd27f8405185ffaf6448f04111f627da3b8cc4f",
+            "before": "cd979a531c7d8a383257dea443b67711016e4c72"
+        },
+        "public": true,
+        "created_at": "2026-02-20T19:39:24Z"
+    },
+    {
+        "id": "8643319466",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "repository_id": 1157546025,
+            "push_id": 30938202641,
+            "ref": "refs/heads/main",
+            "head": "cd979a531c7d8a383257dea443b67711016e4c72",
+            "before": "add90ee911c504a41bee4758fb13149b6b3f8dc2"
+        },
+        "public": true,
+        "created_at": "2026-02-20T17:16:46Z"
+    },
+    {
+        "id": "8576118736",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1155026261,
+            "name": "felipeclsilva/html-css",
+            "url": "https://api.github.com/repos/felipeclsilva/html-css"
+        },
+        "payload": {
+            "repository_id": 1155026261,
+            "push_id": 30871082294,
+            "ref": "refs/heads/main",
+            "head": "9697a1a9193ccd5adff4b2c1827c636a208c1792",
+            "before": "e8ace28241b88eff7329b8114de44326f6d1771b"
+        },
+        "public": true,
+        "created_at": "2026-02-18T20:16:26Z"
+    },
+    {
+        "id": "8575711501",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1155026261,
+            "name": "felipeclsilva/html-css",
+            "url": "https://api.github.com/repos/felipeclsilva/html-css"
+        },
+        "payload": {
+            "repository_id": 1155026261,
+            "push_id": 30870674827,
+            "ref": "refs/heads/main",
+            "head": "e8ace28241b88eff7329b8114de44326f6d1771b",
+            "before": "65b1b55eaf4af7c5636091780f4d064e474a863e"
+        },
+        "public": true,
+        "created_at": "2026-02-18T20:01:31Z"
+    },
+    {
+        "id": "8574024392",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1155026261,
+            "name": "felipeclsilva/html-css",
+            "url": "https://api.github.com/repos/felipeclsilva/html-css"
+        },
+        "payload": {
+            "repository_id": 1155026261,
+            "push_id": 30868987926,
+            "ref": "refs/heads/main",
+            "head": "65b1b55eaf4af7c5636091780f4d064e474a863e",
+            "before": "b25d2eb8dbf517ee7617246ce1ab2d4145c448e0"
+        },
+        "public": true,
+        "created_at": "2026-02-18T19:00:38Z"
+    },
+    {
+        "id": "8437728772",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "repository_id": 1157546025,
+            "push_id": 30732665361,
+            "ref": "refs/heads/main",
+            "head": "add90ee911c504a41bee4758fb13149b6b3f8dc2",
+            "before": "67a4a6e90caafeaebcb9ee85165ae6e016d870e7"
+        },
+        "public": true,
+        "created_at": "2026-02-14T00:36:02Z"
+    },
+    {
+        "id": "8437648546",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "repository_id": 1157546025,
+            "push_id": 30732585012,
+            "ref": "refs/heads/main",
+            "head": "67a4a6e90caafeaebcb9ee85165ae6e016d870e7",
+            "before": "1ea7d0b8457599296c38fcf6edc783c7b4a11321"
+        },
+        "public": true,
+        "created_at": "2026-02-14T00:30:31Z"
+    },
+    {
+        "id": "8437628921",
+        "type": "DeleteEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "ref": "update_13-02",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/update_13-02",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-02-14T00:29:10Z"
+    },
+    {
+        "id": "8437581298",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
+        },
+        "payload": {
+            "ref": "update_13-02",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/update_13-02",
+            "master_branch": "main",
+            "description": "Resolu\u00e7\u00e3o de exerc\u00edcios e desafios propostos pelo curso de JavaScript e ECMAScript do Curso em V\u00eddeo",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-02-14T00:25:48Z"
+    },
+    {
+        "id": "8437465430",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1155026261,
+            "name": "felipeclsilva/html-css",
+            "url": "https://api.github.com/repos/felipeclsilva/html-css"
+        },
+        "payload": {
+            "repository_id": 1155026261,
+            "push_id": 30732401651,
+            "ref": "refs/heads/main",
+            "head": "b25d2eb8dbf517ee7617246ce1ab2d4145c448e0",
+            "before": "51dbe3b626eaaeee305f1bc2e13df9e607f7f30b"
+        },
+        "public": true,
+        "created_at": "2026-02-14T00:17:43Z"
+    },
+    {
+        "id": "6574595200",
+        "type": "PublicEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1157546025,
+            "name": "felipeclsilva/javascript",
+            "url": "https://api.github.com/repos/felipeclsilva/javascript"
         },
         "payload": {},
         "public": true,
-        "created_at": "2026-02-22T15:58:53Z"
+        "created_at": "2026-02-14T00:13:02Z"
     },
     {
-        "id": "6765347450",
+        "id": "8403921300",
+        "type": "PushEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1156715102,
+            "name": "felipeclsilva/projeto-site",
+            "url": "https://api.github.com/repos/felipeclsilva/projeto-site"
+        },
+        "payload": {
+            "repository_id": 1156715102,
+            "push_id": 30698864149,
+            "ref": "refs/heads/main",
+            "head": "a16282fa98d84a5aea5e75769d42da0e5e3e449b",
+            "before": "8fdb44a1a591151de2ee9009fbea8c0816ede045"
+        },
+        "public": true,
+        "created_at": "2026-02-13T01:46:49Z"
+    },
+    {
+        "id": "6544188611",
+        "type": "PublicEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 1156715102,
+            "name": "felipeclsilva/projeto-site",
+            "url": "https://api.github.com/repos/felipeclsilva/projeto-site"
+        },
+        "payload": {},
+        "public": true,
+        "created_at": "2026-02-13T00:58:27Z"
+    },
+    {
+        "id": "6543660999",
         "type": "IssueCommentEvent",
         "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
         },
         "repo": {
             "id": 250518389,
@@ -38,33 +500,33 @@
         "payload": {
             "action": "created",
             "issue": {
-                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353",
+                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336",
                 "repository_url": "https://api.github.com/repos/gustavoguanabara/git-github",
-                "labels_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353/labels{/name}",
-                "comments_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353/comments",
-                "events_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353/events",
-                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4353",
-                "id": 3958928626,
-                "node_id": "I_kwDODu6bdc7r-HTy",
-                "number": 4353,
-                "title": "Teste Markdown",
+                "labels_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336/labels{/name}",
+                "comments_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336/comments",
+                "events_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336/events",
+                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4336",
+                "id": 3919006134,
+                "node_id": "I_kwDODu6bdc7pl0m2",
+                "number": 4336,
+                "title": "Onde est\u00e1 o coment\u00e1rio do gafanhoto?",
                 "user": {
-                    "login": "vitorrodrigues230",
-                    "id": 211255557,
-                    "node_id": "U_kgDODJeBBQ",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/211255557?v=4",
+                    "login": "felipeclsilva",
+                    "id": 189465772,
+                    "node_id": "U_kgDOC0sErA",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/189465772?v=4",
                     "gravatar_id": "",
-                    "url": "https://api.github.com/users/vitorrodrigues230",
-                    "html_url": "https://github.com/vitorrodrigues230",
-                    "followers_url": "https://api.github.com/users/vitorrodrigues230/followers",
-                    "following_url": "https://api.github.com/users/vitorrodrigues230/following{/other_user}",
-                    "gists_url": "https://api.github.com/users/vitorrodrigues230/gists{/gist_id}",
-                    "starred_url": "https://api.github.com/users/vitorrodrigues230/starred{/owner}{/repo}",
-                    "subscriptions_url": "https://api.github.com/users/vitorrodrigues230/subscriptions",
-                    "organizations_url": "https://api.github.com/users/vitorrodrigues230/orgs",
-                    "repos_url": "https://api.github.com/users/vitorrodrigues230/repos",
-                    "events_url": "https://api.github.com/users/vitorrodrigues230/events{/privacy}",
-                    "received_events_url": "https://api.github.com/users/vitorrodrigues230/received_events",
+                    "url": "https://api.github.com/users/felipeclsilva",
+                    "html_url": "https://github.com/felipeclsilva",
+                    "followers_url": "https://api.github.com/users/felipeclsilva/followers",
+                    "following_url": "https://api.github.com/users/felipeclsilva/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/felipeclsilva/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/felipeclsilva/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/felipeclsilva/subscriptions",
+                    "organizations_url": "https://api.github.com/users/felipeclsilva/orgs",
+                    "repos_url": "https://api.github.com/users/felipeclsilva/repos",
+                    "events_url": "https://api.github.com/users/felipeclsilva/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/felipeclsilva/received_events",
                     "type": "User",
                     "user_view_type": "public",
                     "site_admin": false
@@ -75,9 +537,9 @@
                 "assignee": null,
                 "assignees": [],
                 "milestone": null,
-                "comments": 8,
-                "created_at": "2026-02-18T17:19:33Z",
-                "updated_at": "2026-02-21T15:10:23Z",
+                "comments": 2,
+                "created_at": "2026-02-10T01:47:22Z",
+                "updated_at": "2026-02-13T00:52:47Z",
                 "closed_at": null,
                 "active_lock_reason": null,
                 "sub_issues_summary": {
@@ -91,9 +553,9 @@
                     "blocking": 0,
                     "total_blocking": 0
                 },
-                "body": "Estou aprendendo linguagem **Markdown** no curso em V\u00eddeo de Git e Github\nUsando _= __Markdown__\nUsando ~= ~~Markdown~~\n\n---\n# Titulo\n\n## Titulo\n\n### Titulo\n\n---\n\n__*misturado*__\n\n---\n\nLista numerada:\n1.teste\n2.teste\n3.teste\n\n---\n\nLista demarcada:\n* Teste\n* teste\n* teste\n\n---\n\nLista de Tarefas\n\n- [x] Criar a p\u00e1gina principal\n- [x] Criar p\u00e1gina da loja\n- [ ] Finalizar a reuni\u00e3o com o cliente\n- [ ] Receber pagamento\n\n---\n\n**Imagem**:\n\n![Passarin](https://github.com/user-attachments/assets/b888d936-92ac-454e-95ea-a6f50d7f6398)\n---\n\n**Link**:\n[Acesse meu Github](https://github.com/vitorrodrigues230)\n\n---\n**Tabela**:\n\nNum | Nome | Nota \n---|---|---\n1 | Vitor | 8.5\n2 | Jos\u00e9 | 9.0\n3 | Carolina | 7.0\n\nTerminou a Tabela\n\n---\n\n**Comando**:\n\nN\u00e3o entendi direito para que serve o comando `docmunt.getElementByld()` da linguagem JavaScript\n\nOlha meu programa em Python\n```\nnum=int(input(\"digite um valor: \"))\nif num%2==0:\n    print(f\"O valor {num} \u00e9 par\")\nelse:\n    print(f\"O valor {num} \u00e9 impar\")\n```\n\n---\n\n**Emoji**:\n\n\ud83c\udf83 \n\ud83d\udd96 \n\u270b \n\ud83c\udf3c \n\n---",
+                "body": "Procurei aqui, mas n\u00e3o encontrei. Alguma alma bondosa poderia me ajudar?",
                 "reactions": {
-                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353/reactions",
+                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336/reactions",
                     "total_count": 0,
                     "+1": 0,
                     "-1": 0,
@@ -104,46 +566,46 @@
                     "rocket": 0,
                     "eyes": 0
                 },
-                "timeline_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353/timeline",
+                "timeline_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336/timeline",
                 "performed_via_github_app": null,
                 "state_reason": null,
                 "pinned_comment": null
             },
             "comment": {
-                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3938934798",
-                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4353#issuecomment-3938934798",
-                "issue_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4353",
-                "id": 3938934798,
-                "node_id": "IC_kwDODu6bdc7qx2AO",
+                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3894207226",
+                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4336#issuecomment-3894207226",
+                "issue_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336",
+                "id": 3894207226,
+                "node_id": "IC_kwDODu6bdc7oHOL6",
                 "user": {
-                    "login": "Calebe-josue",
-                    "id": 212161434,
-                    "node_id": "U_kgDODKVTmg",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/212161434?v=4",
+                    "login": "felipeclsilva",
+                    "id": 189465772,
+                    "node_id": "U_kgDOC0sErA",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/189465772?v=4",
                     "gravatar_id": "",
-                    "url": "https://api.github.com/users/Calebe-josue",
-                    "html_url": "https://github.com/Calebe-josue",
-                    "followers_url": "https://api.github.com/users/Calebe-josue/followers",
-                    "following_url": "https://api.github.com/users/Calebe-josue/following{/other_user}",
-                    "gists_url": "https://api.github.com/users/Calebe-josue/gists{/gist_id}",
-                    "starred_url": "https://api.github.com/users/Calebe-josue/starred{/owner}{/repo}",
-                    "subscriptions_url": "https://api.github.com/users/Calebe-josue/subscriptions",
-                    "organizations_url": "https://api.github.com/users/Calebe-josue/orgs",
-                    "repos_url": "https://api.github.com/users/Calebe-josue/repos",
-                    "events_url": "https://api.github.com/users/Calebe-josue/events{/privacy}",
-                    "received_events_url": "https://api.github.com/users/Calebe-josue/received_events",
+                    "url": "https://api.github.com/users/felipeclsilva",
+                    "html_url": "https://github.com/felipeclsilva",
+                    "followers_url": "https://api.github.com/users/felipeclsilva/followers",
+                    "following_url": "https://api.github.com/users/felipeclsilva/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/felipeclsilva/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/felipeclsilva/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/felipeclsilva/subscriptions",
+                    "organizations_url": "https://api.github.com/users/felipeclsilva/orgs",
+                    "repos_url": "https://api.github.com/users/felipeclsilva/repos",
+                    "events_url": "https://api.github.com/users/felipeclsilva/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/felipeclsilva/received_events",
                     "type": "User",
                     "user_view_type": "public",
                     "site_admin": false
                 },
-                "created_at": "2026-02-21T15:10:23Z",
-                "updated_at": "2026-02-21T15:10:23Z",
-                "body": "# Estou aprendendo linguagem markdown\n## Vou utilizar essa issue para n\u00e3o criar uma nova!\n\n### lista numerada:\n1. Teste\n1. Teste2\n    1. Teste3\n    2. teste4\n  \n### lista demarcada:\n* teste\n* teste\n-teste\n\n### Lista de tarefas:\n- [ ] Criar p\u00e1gina principal\n- [x] Criar back-end em python\n- [ ] Finalizar reuni\u00e3o\n- [ ] Receber dinheiro\n\n# Imagem\n![Image](https://github.com/user-attachments/assets/d390a9c2-37fc-4d97-ac4d-327e002913ba)\n\n[Acesse meu Github](https://github.com/calebe-josue)\n\n# Cria\u00e7\u00e3o de tabelas\n\nNum | Nome | Nota\n---|---|---\n1 | Gustavo | 8,5\n2 | Calebe | 1\n3 | Jo\u00e3o | 10\n\nTerminou a tabela\n\n# Comando\nN\u00e3o entendo direito para que serve o comando `list()` da linguagem python\n## Olha meu c\u00f3digo em python\n```\nnome = str(input('Digite seu nome\\n'))\nprint(f' Ol\u00e1 {nome}, Tudo bem?')\n```\n\n# Ol\u00e1, amigos Gafanhotos \ud83d\udd96 \ud83d\udcaf \n\n",
+                "created_at": "2026-02-13T00:52:47Z",
+                "updated_at": "2026-02-13T00:52:47Z",
+                "body": "> Oi, @felipeclsilva ! Eu acho que o coment\u00e1rio do gafanhoto \u00e9 https://github.com/gustavoguanabara/git-github/issues/1 ou esse https://github.com/gustavoguanabara/git-github/issues/3\n> \n> N\u00e3o sei se voc\u00ea se refere a eles\n\nValeu @flameastro !\ud83e\udd1d",
                 "pin": null,
                 "reactions": {
-                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3938934798/reactions",
-                    "total_count": 0,
-                    "+1": 0,
+                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3894207226/reactions",
+                    "total_count": 1,
+                    "+1": 1,
                     "-1": 0,
                     "laugh": 0,
                     "hooray": 0,
@@ -156,18 +618,47 @@
             }
         },
         "public": true,
-        "created_at": "2026-02-21T15:10:23Z"
+        "created_at": "2026-02-13T00:52:47Z"
     },
     {
-        "id": "6743376600",
-        "type": "IssueCommentEvent",
+        "id": "6510088353",
+        "type": "WatchEvent",
         "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 250712531,
+            "name": "he4rt/4noobs",
+            "url": "https://api.github.com/repos/he4rt/4noobs"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2026-02-12T00:18:40Z",
+        "org": {
+            "id": 47680810,
+            "login": "he4rt",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/he4rt",
+            "avatar_url": "https://avatars.githubusercontent.com/u/47680810?"
+        }
+    },
+    {
+        "id": "6509606938",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
         },
         "repo": {
             "id": 250518389,
@@ -175,7 +666,7 @@
             "url": "https://api.github.com/repos/gustavoguanabara/git-github"
         },
         "payload": {
-            "action": "created",
+            "action": "opened",
             "issue": {
                 "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4342",
                 "repository_url": "https://api.github.com/repos/gustavoguanabara/git-github",
@@ -247,42 +738,136 @@
                 "performed_via_github_app": null,
                 "state_reason": null,
                 "pinned_comment": null
-            },
-            "comment": {
-                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3934625864",
-                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4342#issuecomment-3934625864",
-                "issue_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4342",
-                "id": 3934625864,
-                "node_id": "IC_kwDODu6bdc7qhaBI",
+            }
+        },
+        "public": true,
+        "created_at": "2026-02-11T23:46:17Z"
+    },
+    {
+        "id": "6506486362",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
+        },
+        "repo": {
+            "id": 250518389,
+            "name": "gustavoguanabara/git-github",
+            "url": "https://api.github.com/repos/gustavoguanabara/git-github"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4339",
+                "repository_url": "https://api.github.com/repos/gustavoguanabara/git-github",
+                "labels_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4339/labels{/name}",
+                "comments_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4339/comments",
+                "events_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4339/events",
+                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4339",
+                "id": 3922411938,
+                "node_id": "I_kwDODu6bdc7py0Gi",
+                "number": 4339,
+                "title": "Meu nome \u00e9 Daniel, este \u00e9 meu reposit\u00f3rio das aulas de python com o professor Guanabara",
                 "user": {
-                    "login": "Calebe-josue",
-                    "id": 212161434,
-                    "node_id": "U_kgDODKVTmg",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/212161434?v=4",
+                    "login": "danielAPprado",
+                    "id": 226788458,
+                    "node_id": "U_kgDODYSEag",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/226788458?v=4",
                     "gravatar_id": "",
-                    "url": "https://api.github.com/users/Calebe-josue",
-                    "html_url": "https://github.com/Calebe-josue",
-                    "followers_url": "https://api.github.com/users/Calebe-josue/followers",
-                    "following_url": "https://api.github.com/users/Calebe-josue/following{/other_user}",
-                    "gists_url": "https://api.github.com/users/Calebe-josue/gists{/gist_id}",
-                    "starred_url": "https://api.github.com/users/Calebe-josue/starred{/owner}{/repo}",
-                    "subscriptions_url": "https://api.github.com/users/Calebe-josue/subscriptions",
-                    "organizations_url": "https://api.github.com/users/Calebe-josue/orgs",
-                    "repos_url": "https://api.github.com/users/Calebe-josue/repos",
-                    "events_url": "https://api.github.com/users/Calebe-josue/events{/privacy}",
-                    "received_events_url": "https://api.github.com/users/Calebe-josue/received_events",
+                    "url": "https://api.github.com/users/danielAPprado",
+                    "html_url": "https://github.com/danielAPprado",
+                    "followers_url": "https://api.github.com/users/danielAPprado/followers",
+                    "following_url": "https://api.github.com/users/danielAPprado/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/danielAPprado/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/danielAPprado/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/danielAPprado/subscriptions",
+                    "organizations_url": "https://api.github.com/users/danielAPprado/orgs",
+                    "repos_url": "https://api.github.com/users/danielAPprado/repos",
+                    "events_url": "https://api.github.com/users/danielAPprado/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/danielAPprado/received_events",
                     "type": "User",
                     "user_view_type": "public",
                     "site_admin": false
                 },
-                "created_at": "2026-02-20T13:30:00Z",
-                "updated_at": "2026-02-20T13:30:00Z",
-                "body": "Caramba, ajudou demais cara, muito obrigado!",
+                "labels": [],
+                "state": "open",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-02-10T16:28:52Z",
+                "updated_at": "2026-02-11T21:05:52Z",
+                "closed_at": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "[clique aqui para ver](https://github.com/danielAPprado/Curso-python)",
+                "reactions": {
+                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4339/reactions",
+                    "total_count": 1,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 1,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4339/timeline",
+                "performed_via_github_app": null,
+                "state_reason": null,
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3887225764",
+                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4339#issuecomment-3887225764",
+                "issue_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4339",
+                "id": 3887225764,
+                "node_id": "IC_kwDODu6bdc7nsluk",
+                "user": {
+                    "login": "felipeclsilva",
+                    "id": 189465772,
+                    "node_id": "U_kgDOC0sErA",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/189465772?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/felipeclsilva",
+                    "html_url": "https://github.com/felipeclsilva",
+                    "followers_url": "https://api.github.com/users/felipeclsilva/followers",
+                    "following_url": "https://api.github.com/users/felipeclsilva/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/felipeclsilva/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/felipeclsilva/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/felipeclsilva/subscriptions",
+                    "organizations_url": "https://api.github.com/users/felipeclsilva/orgs",
+                    "repos_url": "https://api.github.com/users/felipeclsilva/repos",
+                    "events_url": "https://api.github.com/users/felipeclsilva/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/felipeclsilva/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-02-11T21:05:52Z",
+                "updated_at": "2026-02-11T21:05:52Z",
+                "body": "> [clique aqui para ver](https://github.com/danielAPprado/Curso-python)\n\nParab\u00e9ns @danielAPprado! Deve ter dado um trabalh\u00e3o, mas continue com esse compromisso como aluno porque essa organiza\u00e7\u00e3o ir\u00e1 te levar longe. ",
                 "pin": null,
                 "reactions": {
-                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3934625864/reactions",
-                    "total_count": 1,
-                    "+1": 1,
+                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3887225764/reactions",
+                    "total_count": 0,
+                    "+1": 0,
                     "-1": 0,
                     "laugh": 0,
                     "hooray": 0,
@@ -295,321 +880,293 @@
             }
         },
         "public": true,
-        "created_at": "2026-02-20T13:30:00Z"
+        "created_at": "2026-02-11T21:05:52Z"
     },
     {
-        "id": "8613944256",
-        "type": "PushEvent",
-        "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
-        },
-        "repo": {
-            "id": 1152199205,
-            "name": "Calebe-josue/Caixa-eletr-nico",
-            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
-        },
-        "payload": {
-            "repository_id": 1152199205,
-            "push_id": 30908876489,
-            "ref": "refs/heads/main",
-            "head": "4f2919256405a5c51c3663e9675b4ec10f380c8b",
-            "before": "ea46e9a53236b12c6d8491b12a172d7ad14a34a5"
-        },
-        "public": true,
-        "created_at": "2026-02-19T20:54:37Z"
-    },
-    {
-        "id": "8600650282",
+        "id": "8330281556",
         "type": "CreateEvent",
         "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
         },
         "repo": {
-            "id": 1161761266,
-            "name": "Calebe-josue/FastAPI",
-            "url": "https://api.github.com/repos/Calebe-josue/FastAPI"
+            "id": 1155026261,
+            "name": "felipeclsilva/html-css",
+            "url": "https://api.github.com/repos/felipeclsilva/html-css"
         },
         "payload": {
             "ref": "main",
             "ref_type": "branch",
             "full_ref": "refs/heads/main",
             "master_branch": "main",
-            "description": "Projeto para estudos. Entendendo como funciona uma API e como ela se comunica.",
+            "description": "Resolu\u00e7\u00e3o de exerc\u00edcios e desafios propostos pelo curso de HTML5 e CSS3 do Curso em V\u00eddeo",
             "pusher_type": "user"
         },
         "public": true,
-        "created_at": "2026-02-19T13:43:03Z"
+        "created_at": "2026-02-11T03:20:40Z"
     },
     {
-        "id": "8600113624",
-        "type": "PushEvent",
+        "id": "6443892665",
+        "type": "IssuesEvent",
         "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
         },
         "repo": {
-            "id": 1152199205,
-            "name": "Calebe-josue/Caixa-eletr-nico",
-            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
+            "id": 250518389,
+            "name": "gustavoguanabara/git-github",
+            "url": "https://api.github.com/repos/gustavoguanabara/git-github"
         },
         "payload": {
-            "repository_id": 1152199205,
-            "push_id": 30895151473,
-            "ref": "refs/heads/main",
-            "head": "ea46e9a53236b12c6d8491b12a172d7ad14a34a5",
-            "before": "b5a49ebc9db7f3d892dfb182559f472ee47312a1"
+            "action": "opened",
+            "issue": {
+                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336",
+                "repository_url": "https://api.github.com/repos/gustavoguanabara/git-github",
+                "labels_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336/labels{/name}",
+                "comments_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336/comments",
+                "events_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336/events",
+                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4336",
+                "id": 3919006134,
+                "node_id": "I_kwDODu6bdc7pl0m2",
+                "number": 4336,
+                "title": "Onde est\u00e1 o coment\u00e1rio do gafanhoto?",
+                "user": {
+                    "login": "felipeclsilva",
+                    "id": 189465772,
+                    "node_id": "U_kgDOC0sErA",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/189465772?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/felipeclsilva",
+                    "html_url": "https://github.com/felipeclsilva",
+                    "followers_url": "https://api.github.com/users/felipeclsilva/followers",
+                    "following_url": "https://api.github.com/users/felipeclsilva/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/felipeclsilva/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/felipeclsilva/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/felipeclsilva/subscriptions",
+                    "organizations_url": "https://api.github.com/users/felipeclsilva/orgs",
+                    "repos_url": "https://api.github.com/users/felipeclsilva/repos",
+                    "events_url": "https://api.github.com/users/felipeclsilva/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/felipeclsilva/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "open",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 2,
+                "created_at": "2026-02-10T01:47:22Z",
+                "updated_at": "2026-02-13T00:52:47Z",
+                "closed_at": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Procurei aqui, mas n\u00e3o encontrei. Alguma alma bondosa poderia me ajudar?",
+                "reactions": {
+                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4336/timeline",
+                "performed_via_github_app": null,
+                "state_reason": null,
+                "pinned_comment": null
+            }
         },
         "public": true,
-        "created_at": "2026-02-19T13:25:31Z"
+        "created_at": "2026-02-10T01:47:23Z"
     },
     {
-        "id": "8346201833",
-        "type": "PushEvent",
+        "id": "6443851518",
+        "type": "IssueCommentEvent",
         "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
         },
         "repo": {
-            "id": 1114078734,
-            "name": "Calebe-josue/To-do-list",
-            "url": "https://api.github.com/repos/Calebe-josue/To-do-list"
+            "id": 250518389,
+            "name": "gustavoguanabara/git-github",
+            "url": "https://api.github.com/repos/gustavoguanabara/git-github"
         },
         "payload": {
-            "repository_id": 1114078734,
-            "push_id": 30641187548,
-            "ref": "refs/heads/main",
-            "head": "02e8cb897ad1189a2f878f3b4b1259bf7201d88c",
-            "before": "0eda61a945fe96f858d3fd1c9dd64401e7c1ee54"
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4335",
+                "repository_url": "https://api.github.com/repos/gustavoguanabara/git-github",
+                "labels_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4335/labels{/name}",
+                "comments_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4335/comments",
+                "events_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4335/events",
+                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4335",
+                "id": 3918636467,
+                "node_id": "I_kwDODu6bdc7pkaWz",
+                "number": 4335,
+                "title": "onde esta os slides da aula 004?",
+                "user": {
+                    "login": "Kadu-Lopes",
+                    "id": 63619640,
+                    "node_id": "MDQ6VXNlcjYzNjE5NjQw",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/63619640?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Kadu-Lopes",
+                    "html_url": "https://github.com/Kadu-Lopes",
+                    "followers_url": "https://api.github.com/users/Kadu-Lopes/followers",
+                    "following_url": "https://api.github.com/users/Kadu-Lopes/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Kadu-Lopes/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Kadu-Lopes/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Kadu-Lopes/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Kadu-Lopes/orgs",
+                    "repos_url": "https://api.github.com/users/Kadu-Lopes/repos",
+                    "events_url": "https://api.github.com/users/Kadu-Lopes/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Kadu-Lopes/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "open",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 3,
+                "created_at": "2026-02-09T23:26:00Z",
+                "updated_at": "2026-02-16T09:41:42Z",
+                "closed_at": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "teste curso de git e git-hub",
+                "reactions": {
+                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4335/reactions",
+                    "total_count": 1,
+                    "+1": 1,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4335/timeline",
+                "performed_via_github_app": null,
+                "state_reason": null,
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3874849611",
+                "html_url": "https://github.com/gustavoguanabara/git-github/issues/4335#issuecomment-3874849611",
+                "issue_url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/4335",
+                "id": 3874849611,
+                "node_id": "IC_kwDODu6bdc7m9YNL",
+                "user": {
+                    "login": "felipeclsilva",
+                    "id": 189465772,
+                    "node_id": "U_kgDOC0sErA",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/189465772?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/felipeclsilva",
+                    "html_url": "https://github.com/felipeclsilva",
+                    "followers_url": "https://api.github.com/users/felipeclsilva/followers",
+                    "following_url": "https://api.github.com/users/felipeclsilva/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/felipeclsilva/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/felipeclsilva/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/felipeclsilva/subscriptions",
+                    "organizations_url": "https://api.github.com/users/felipeclsilva/orgs",
+                    "repos_url": "https://api.github.com/users/felipeclsilva/repos",
+                    "events_url": "https://api.github.com/users/felipeclsilva/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/felipeclsilva/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-02-10T01:44:41Z",
+                "updated_at": "2026-02-10T01:44:41Z",
+                "body": "Fala @Kadu-Lopes! A [aula 04](https://www.youtube.com/live/gMh6lrXibWY?si=aEWYzmPvI9hq36st) do curso de Git e GitHub n\u00e3o possui slide, pois nela \u00e9 explicado o passo a passo acerca das instala\u00e7\u00f5es das tecnologias utilizadas no curso, sendo assim uma aula pr\u00e1tica.",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/gustavoguanabara/git-github/issues/comments/3874849611/reactions",
+                    "total_count": 2,
+                    "+1": 2,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
         },
         "public": true,
-        "created_at": "2026-02-11T13:45:52Z"
+        "created_at": "2026-02-10T01:44:41Z"
     },
     {
-        "id": "8346134968",
-        "type": "PushEvent",
-        "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
-        },
-        "repo": {
-            "id": 1152199205,
-            "name": "Calebe-josue/Caixa-eletr-nico",
-            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
-        },
-        "payload": {
-            "repository_id": 1152199205,
-            "push_id": 30641119441,
-            "ref": "refs/heads/main",
-            "head": "b5a49ebc9db7f3d892dfb182559f472ee47312a1",
-            "before": "c1e68b53422fbcbbc53ff386a51deebfd9273b8c"
-        },
-        "public": true,
-        "created_at": "2026-02-11T13:43:48Z"
-    },
-    {
-        "id": "8345703496",
-        "type": "PushEvent",
-        "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
-        },
-        "repo": {
-            "id": 1150612553,
-            "name": "Calebe-josue/Biblioteca",
-            "url": "https://api.github.com/repos/Calebe-josue/Biblioteca"
-        },
-        "payload": {
-            "repository_id": 1150612553,
-            "push_id": 30640682960,
-            "ref": "refs/heads/main",
-            "head": "bce01bf802646e13b6ed3624a5556bbb581bf394",
-            "before": "a15b0042fcbab8af878edd1c5dc668b67c7ad3b7"
-        },
-        "public": true,
-        "created_at": "2026-02-11T13:30:53Z"
-    },
-    {
-        "id": "8227227182",
-        "type": "PushEvent",
-        "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
-        },
-        "repo": {
-            "id": 1152199205,
-            "name": "Calebe-josue/Caixa-eletr-nico",
-            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
-        },
-        "payload": {
-            "repository_id": 1152199205,
-            "push_id": 30522153549,
-            "ref": "refs/heads/main",
-            "head": "c1e68b53422fbcbbc53ff386a51deebfd9273b8c",
-            "before": "73a7b0c7519132aa60c34929b1ace2cd8105c329"
-        },
-        "public": true,
-        "created_at": "2026-02-07T14:45:39Z"
-    },
-    {
-        "id": "8227002504",
-        "type": "PushEvent",
-        "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
-        },
-        "repo": {
-            "id": 1152199205,
-            "name": "Calebe-josue/Caixa-eletr-nico",
-            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
-        },
-        "payload": {
-            "repository_id": 1152199205,
-            "push_id": 30521929424,
-            "ref": "refs/heads/main",
-            "head": "73a7b0c7519132aa60c34929b1ace2cd8105c329",
-            "before": "db64d7ce229bb9934eea50d7cd5965155f3ff433"
-        },
-        "public": true,
-        "created_at": "2026-02-07T14:31:18Z"
-    },
-    {
-        "id": "8226863244",
+        "id": "8284164265",
         "type": "CreateEvent",
         "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
+            "id": 189465772,
+            "login": "felipeclsilva",
+            "display_login": "felipeclsilva",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
+            "url": "https://api.github.com/users/felipeclsilva",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189465772?"
         },
         "repo": {
-            "id": 1152199205,
-            "name": "Calebe-josue/Caixa-eletr-nico",
-            "url": "https://api.github.com/repos/Calebe-josue/Caixa-eletr-nico"
+            "id": 1153918514,
+            "name": "felipeclsilva/beecrowd",
+            "url": "https://api.github.com/repos/felipeclsilva/beecrowd"
         },
         "payload": {
             "ref": "main",
             "ref_type": "branch",
             "full_ref": "refs/heads/main",
             "master_branch": "main",
-            "description": "Aplica\u00e7\u00e3o em Python que simula um caixa eletr\u00f4nico com consulta de saldo, dep\u00f3sitos, saques e registro de hist\u00f3rico usando arquivo JSON para persist\u00eancia de dados.",
+            "description": "Exerc\u00edcios da plataforma Beecrowd resolvidos em Java e JavaScript",
             "pusher_type": "user"
         },
         "public": true,
-        "created_at": "2026-02-07T14:22:01Z"
-    },
-    {
-        "id": "8172056753",
-        "type": "PushEvent",
-        "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
-        },
-        "repo": {
-            "id": 1150612553,
-            "name": "Calebe-josue/Biblioteca",
-            "url": "https://api.github.com/repos/Calebe-josue/Biblioteca"
-        },
-        "payload": {
-            "repository_id": 1150612553,
-            "push_id": 30460066269,
-            "ref": "refs/heads/main",
-            "head": "a15b0042fcbab8af878edd1c5dc668b67c7ad3b7",
-            "before": "43ab1d73affe77ff485be5b16a0cfc8615d641a9"
-        },
-        "public": true,
-        "created_at": "2026-02-05T14:14:56Z"
-    },
-    {
-        "id": "8171778239",
-        "type": "PushEvent",
-        "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
-        },
-        "repo": {
-            "id": 1150612553,
-            "name": "Calebe-josue/Biblioteca",
-            "url": "https://api.github.com/repos/Calebe-josue/Biblioteca"
-        },
-        "payload": {
-            "repository_id": 1150612553,
-            "push_id": 30459484832,
-            "ref": "refs/heads/main",
-            "head": "43ab1d73affe77ff485be5b16a0cfc8615d641a9",
-            "before": "6544784d244e46180d6ffba09618eedb92eaded7"
-        },
-        "public": true,
-        "created_at": "2026-02-05T13:57:41Z"
-    },
-    {
-        "id": "8163678326",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 212161434,
-            "login": "Calebe-josue",
-            "display_login": "Calebe-josue",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Calebe-josue",
-            "avatar_url": "https://avatars.githubusercontent.com/u/212161434?"
-        },
-        "repo": {
-            "id": 1150612553,
-            "name": "Calebe-josue/Biblioteca",
-            "url": "https://api.github.com/repos/Calebe-josue/Biblioteca"
-        },
-        "payload": {
-            "ref": "main",
-            "ref_type": "branch",
-            "full_ref": "refs/heads/main",
-            "master_branch": "main",
-            "description": "Sistema de biblioteca em Python para cadastro e gerenciamento de livros via terminal, com dados salvos em JSON.",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2026-02-05T13:44:56Z"
+        "created_at": "2026-02-09T20:22:23Z"
     }
 ]
