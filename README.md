@@ -1,4 +1,4 @@
-# Projeto que consome a API REST do github
+# API REST GITHUB
 Projeto desenvolvido em Python que consome uma **API REST do GitHub** utilizando a biblioteca **request**.
 
 A aplicação permite listar todos os eventos realizados por um usuário do GitHub em um determinado período.
