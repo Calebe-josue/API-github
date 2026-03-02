@@ -1,5 +1,6 @@
 import requests
 from model import*
+
 # Controlador que consome a API e salva em um json
 
 class Eventos:
@@ -16,3 +17,10 @@ class Eventos:
             return True
         elif response.status_code == 404: # Retorna valor False caso receba um 404 - Not Found, que significa usuário não encontrado.
             return False
+
+
+def data_original(data):
+    """Essa função pega apenas a data do evento do usuário."""
+    data_nova = data.split('T')
+    return data_nova[0]
+

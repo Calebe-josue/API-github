@@ -13,4 +13,4 @@ else:
 
     for i in arquivo:
         sleep(1)
-        print(f'você teve um {i["type"]} no repositório {i["repo"]["url"]}') # Cita os eventos salvo no json.
+        print(f'você teve um {i["type"]} no repositório {i["repo"]["url"]}, na data {data_original(i["created_at"])}') # Cita os eventos salvo no json.
