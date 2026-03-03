@@ -1,5 +1,5 @@
 import json
-# Arquivo para manipular aquivo json
+# model para manipular aquivo json
 
 def salvar_arquivo(nome,api): # Cria um novo arquivo a cada requisição de um usuário
     with open(nome,'w',encoding='utf-8') as arq:

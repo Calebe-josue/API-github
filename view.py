@@ -1,6 +1,8 @@
 from controller import*
 from time import sleep
 
+# interface no terminal
+
 nome = str(input('Digite seu nome de usuário do github para ter acesso a seus eventos\n'))
 
 pes1 = Eventos(nome)
